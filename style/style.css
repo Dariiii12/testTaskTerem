@@ -1,0 +1,21 @@
+.borderCol {
+    border: 1px solid black;
+}
+.borderBotomCol {
+    border: 1px dashed black;
+}
+.styleColor1 {
+    background-color: #FFD073;
+}
+.styleColor2 {
+    background-color: #FFAA00;
+}
+.styleColor3 {
+    background-color: #A66F00;
+}
+.hidden {
+    display: none;
+  }
+  .order {
+    order: -1;
+  }
